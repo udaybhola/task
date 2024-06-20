@@ -1,6 +1,6 @@
 # Frontend
 
-1. cd timer-world-clock
+1. cd client
 2. run "npm install"
 3. run " npm start"
 
